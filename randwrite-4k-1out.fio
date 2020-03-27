@@ -1,8 +1,8 @@
 [global]
 time_based
-runtime=120
-startdelay=10
-ramp_time=10
+runtime=60
+startdelay=5
+ramp_time=5
 direct=1
 rw=randwrite
 size=100G
